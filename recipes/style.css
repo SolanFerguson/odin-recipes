@@ -1,0 +1,23 @@
+* {
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+  list-style-position: inside;
+}
+body {
+  background-color: #fbf1c7;
+}
+h1 {
+  color: #d65d0e;
+}
+a {
+  color: #427b58;
+}
+h2,
+h4 {
+  color: #af3a03;
+}
+p,
+ul,
+ol {
+  color: #282828;
+}
